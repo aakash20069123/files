@@ -1,1 +1,1 @@
-Create a detailed project plan, outline the features of the Gobang game, assign responsibilities for each part of the game, and ensure all components work together seamlessly. Collaborate with Bob and Carol to implement the Gobang game with a strong AI, no frontend, and executable by running 'main.py'.
+Design main screens and user interactions. Implement the main screens. Design the control flow for user interactions.
