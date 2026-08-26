@@ -1,1 +1,1 @@
-Initial discussion about the UI/UX design for the Gobang game with Bob.
+Started discussing initial UI/UX design.
