@@ -1,1 +1,0 @@
-Identify necessary features for Gobang game and AI. Assign tasks to team members. Coordinate work. Test the project and fix discovered problems.
