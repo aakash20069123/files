@@ -1,1 +1,0 @@
-Develop game logic in game_logic.py. Implement AI algorithm in ai.py. Integrate game and AI logic into main.py. Implement basic user authentication and data storage. Document all processes and upload the project structure.

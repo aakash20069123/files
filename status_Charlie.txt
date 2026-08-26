@@ -1,1 +1,0 @@
-Started working on the basic infrastructure for the game's back-end, including user authentication, data storage, and basic game state management. Set up a project structure with necessary files for these components.
