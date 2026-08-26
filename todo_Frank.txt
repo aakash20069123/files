@@ -1,1 +1,0 @@
-Develop a Gobang game with a strong AI. Write unit tests for all components. Run tests to find and fix bugs. Provide feedback and suggestions for improvement.

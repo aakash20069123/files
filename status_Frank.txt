@@ -1,1 +1,0 @@
-Created a test plan with a list of test cases and expected outcomes.
