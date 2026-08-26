@@ -1,0 +1,4 @@
+Communicate with the team and provide feedback.
+Oversee the team's progress and resolve any issues.
+Ensure the completion of the project according to the timeline.
+Test the game and report any bugs found.
