@@ -1,1 +1,1 @@
-Create a detailed project plan, outline the features of the Gobang game, assign responsibilities for each part of the game, ensure all components work together seamlessly.
+Define game features, assign responsibilities, and ensure seamless integration.
