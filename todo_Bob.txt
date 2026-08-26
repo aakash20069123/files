@@ -1,0 +1,1 @@
+Implement the core game logic and communicate with the AI.
